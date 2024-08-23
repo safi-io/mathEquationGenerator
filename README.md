@@ -13,7 +13,7 @@ The Arithmetic Quiz Generator is a small program that helps users practice basic
 - **Score Tracking**: Tracks the number of correct answers out of the total number of attempts.
   
 ## File Structure
-- main.cpp: The main program file containing the implementation of the arithmetic quiz.
+- `main.cpp`: The main program file containing the implementation of the arithmetic quiz.
 
 ## Dependencies
 This project requires a C++ compiler that supports C++11 or later. No additional libraries are needed beyond the C++ Standard Library.
